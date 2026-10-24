@@ -5,3 +5,5 @@ using namespace std;
 class normal_class {
 
 };
+
+//no main function here!
